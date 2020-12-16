@@ -4,8 +4,9 @@
 @author: CollegeBoreal
 """
 
-def main:
-  return main
+def Exo_02:
+  F = "Bonjour"
+  return F
 
 def main():
   print( exo_02() )
