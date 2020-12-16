@@ -5,8 +5,8 @@
 """
 
 def exo_03(liste):
-  # Selectionner une liste de nombre pairs uniquement
-  pairs = ??? 
+   #Selectionner une liste de nombre pairs uniquement
+  pairs = 2, 4, 6
   return sorted(pairs)
 
 def main():
