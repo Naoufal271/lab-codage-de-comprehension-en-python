@@ -4,8 +4,8 @@
 @author: CollegeBoreal
 """
 
-def Exo_02:
-  s = "bonjour"
+def exo_02():
+  s = "Bonjour"
   return s
 
 def main():
