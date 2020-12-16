@@ -4,8 +4,8 @@
 @author: CollegeBoreal
 """
 
-def exo02:
-  return ???
+def main:
+  return main
 
 def main():
   print( exo_02() )
