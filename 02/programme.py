@@ -4,7 +4,7 @@
 @author: CollegeBoreal
 """
 
-def ???:
+def exo02:
   return ???
 
 def main():
